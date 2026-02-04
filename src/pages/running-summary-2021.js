@@ -8,7 +8,7 @@ const IndexPage = () => (
 		<SEO title="2021 Running Summary"/>
 
 		<h1>I Ran Every Day in 2021 and This is What Happened...</h1>
-		<p>Sorry. As a web developer who loathes click-bait titles, I had to write one of my own. While I can't say I gained
+		<p>Sorry. As a web developer who loathes clickbait titles, I had to write one of my own. While I can't say I gained
 			50 pounds of muscle mass or feel 20 years younger, it’s worth noting a few observations for others pursuing a run
 			streak goal.</p>
 
@@ -36,11 +36,7 @@ const IndexPage = () => (
 				to injuries increased by year’s end. No torn ACLs, broken bones or destroyed knees. Woo-hoo!
 			</li>
 		</ul>
-
-		<h2>Statistics</h2>
-
-
-		<h2>The Most Memorable Runs</h2>
+		
 
 		<h2>Conclusion</h2>
 		<p>If there is one thing I’d say about my 365-day streak, <strong>I felt as though I fully experienced the year

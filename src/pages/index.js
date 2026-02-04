@@ -10,11 +10,11 @@ import MonthlyStats from "../components/monthly-stats"
 const IndexPage = () => (
     <Layout>
         <SEO title="Phil Birnie runs for 365 Days in a Row" />
-        <p>Starting on January 1, 2021, I will attempt to run for 365 days in a row and <s>1,000</s> 1,250 miles.</p>
-        <p><strong>This goal is complete!</strong> I wrote a <Link to="/running-summary-2021/">short post about my experience</Link>.</p>
+        <p>Starting on January 1, 2026, I will attempt to run for 365 days in a row and 1,250 miles.</p>
+        <p><strong>This is my 2nd try at this.  I completed a year-long streak in 2021 and wrote a </strong> <Link to="/running-summary-2021/">short post about my experience</Link>.</p>
         <h3>Rules:</h3>
         <ul>
-            <li>Run at least 0.5 miles per day</li>
+            <li>Run at least 1 mile per day</li>
             <li>Runs than span midnight may count as both days.</li>
         </ul>
         <Stats />

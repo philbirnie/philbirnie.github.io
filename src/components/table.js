@@ -32,7 +32,7 @@ const Table = () => {
 						<td className="col-distance">{ dayData.distance }</td>
 						<td className="col-cumulative">{ cumulativeDistanceDisplayed }</td>
 						<td className="col-route">
-							<Link target="_blank" to={ dayData.map }>Map</Link>
+							{dayData.map && <Link target="_blank" to={ dayData.map }>Map</Link>}
 						</td>
 						<td className="col-remarks">{ dayData.remark }</td>
 					</tr>
