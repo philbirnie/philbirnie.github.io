@@ -211,5 +211,12 @@
     "time": "18:00",
     "distance": 2.70,
     "map": "https://onthegomap.com/s/iel0ck10"
+  },
+  {
+    "date": "2026-02-06",
+    "time": "08:10",
+    "distance": 3.6,
+    "map": "https://onthegomap.com/s/fh2jjpko",
+    "remark": "Snowy! Tough run this morning."
   }
 ]
