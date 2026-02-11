@@ -1,11 +1,11 @@
 import React from "react"
 
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 
 const IndexPage = () => (
 	<Layout>
-		<SEO title="2021 Running Summary"/>
+		<Seo title="2021 Running Summary"/>
 
 		<h1>I Ran Every Day in 2021 and This is What Happened...</h1>
 		<p>Sorry. As a web developer who loathes clickbait titles, I had to write one of my own. While I can't say I gained

@@ -238,5 +238,12 @@
   "time": "17:30",
   "distance": 3.69,
   "map": "https://onthegomap.com/s/476paes6"
-}
+  },
+  {
+  "date": "2026-02-10",
+  "time": "17:00",
+  "distance": 2.57,
+  "map": "https://onthegomap.com/s/pt78rku5",
+    "remark": "48º today -- feels like 60º!"
+  }
 ]
