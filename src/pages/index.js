@@ -1,6 +1,5 @@
 import React from "react"
 import { Link } from "gatsby"
-import { Helmet } from "react-helmet"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
@@ -10,21 +9,6 @@ import MonthlyStats from "../components/monthly-stats"
 
 const IndexPage = () => (
 	<Layout>
-		<Helmet>
-			<Helmet>
-				<script async src="https://www.googletagmanager.com/gtag/js?id=G-XWHLHMT10F"></script>
-				<script
-					dangerouslySetInnerHTML={ {
-						__html: `
-											window.dataLayer = window.dataLayer || [];
-											function gtag(){dataLayer.push(arguments);}
-											gtag('js', new Date());
-											gtag('config', 'G-XWHLHMT10F');
-									`,
-					} }
-				/>
-			</Helmet>
-		</Helmet>
 		<Seo title="Phil Birnie runs for 365 Days in a Row"/>
 		<p>Starting on January 1, 2026, I will attempt to run for 365 days in a row and 1,250 miles.</p>
 		<p><strong>This is my 2nd try at this. I completed a year-long streak in 2021 and wrote a </strong> <Link
