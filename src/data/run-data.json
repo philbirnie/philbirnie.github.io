@@ -65,7 +65,7 @@
     "date": "2026-01-11",
     "time": "08:00",
     "distance": 12.99,
-    "map": "https://onthegomap.com/s/t4nvdmp6",
+    "map": "https://runsignup.com/Race/OH/LewisCenter/RocksandRootsWinterSeriesw",
     "remark": "Rocks and Roots Winter Challenge"
   },
   {
@@ -251,6 +251,12 @@
     "time": "15:45",
     "distance": 5.21,
     "map": "https://onthegomap.com/s/vihrot8a",
-    "remark": "Like running through a Big Gulp."
+    "remark": "Like running through a Big Gulp®."
+  },
+  {
+    "date": "2026-02-12",
+    "time": "16:30",
+    "distance": 2.21,
+    "map": "https://onthegomap.com/s/s39ba79e"
   }
 ]
