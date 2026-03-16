@@ -49,10 +49,10 @@
     "distance": 2.98
   },
   {
-  "date": "2026-01-09",
-  "time": "16:30",
-  "distance": 1.16,
-  "map": "https://onthegomap.com/s/t4nvdmp6"
+    "date": "2026-01-09",
+    "time": "16:30",
+    "distance": 1.16,
+    "map": "https://onthegomap.com/s/t4nvdmp6"
   },
   {
     "date": "2026-01-10",
@@ -234,16 +234,16 @@
     "remark": "Another bluebird day. ☀️"
   },
   {
-  "date": "2026-02-09",
-  "time": "17:30",
-  "distance": 3.69,
-  "map": "https://onthegomap.com/s/476paes6"
+    "date": "2026-02-09",
+    "time": "17:30",
+    "distance": 3.69,
+    "map": "https://onthegomap.com/s/476paes6"
   },
   {
-  "date": "2026-02-10",
-  "time": "17:00",
-  "distance": 2.57,
-  "map": "https://onthegomap.com/s/pt78rku5",
+    "date": "2026-02-10",
+    "time": "17:00",
+    "distance": 2.57,
+    "map": "https://onthegomap.com/s/pt78rku5",
     "remark": "48º today -- feels like 60º!"
   },
   {
@@ -258,5 +258,210 @@
     "time": "16:30",
     "distance": 2.21,
     "map": "https://onthegomap.com/s/s39ba79e"
+  },
+  {
+    "date": "2026-02-13",
+    "time": "16:15",
+    "distance": 4.31,
+    "map": "https://onthegomap.com/s/alf62k4b"
+  },
+  {
+    "date": "2026-02-14",
+    "time": "16:30",
+    "distance": 1.16,
+    "map": "https://onthegomap.com/s/t4nvdmp6"
+  },
+  {
+    "date": "2026-02-15",
+    "time": "08:00",
+    "distance": 19.74,
+    "map": "https://onthegomap.com/s/84k5dlfs",
+    "remark": "Rocks and Roots Winter Challenge #2; very difficult conditions (mud and snow)."
+  },
+  {
+    "date": "2026-02-16",
+    "time": "20:40",
+    "distance": 3.04,
+    "map": "https://onthegomap.com/s/2j5phv1e"
+  },
+  {
+    "date": "2026-02-17",
+    "time": "18:15",
+    "distance": 3.84,
+    "map": "https://onthegomap.com/s/2bgsn6i6"
+  },
+  {
+    "date": "2026-02-18",
+    "time": "16:45",
+    "distance": 2.29,
+    "map": "https://onthegomap.com/s/j394nrbs"
+  },
+  {
+    "date": "2026-02-19",
+    "time": "16:30",
+    "distance": 3.91,
+    "map": "https://onthegomap.com/s/0t8a950c",
+    "remark": "Fun route and great weather!"
+  },
+  {
+    "date": "2026-02-20",
+    "time": "17:45",
+    "distance": 4.46,
+    "map": "https://onthegomap.com/s/appbfhkf"
+  },
+  {
+    "date": "2026-02-21",
+    "time": "08:50",
+    "distance": 1.16,
+    "map": "https://onthegomap.com/s/t4nvdmp6",
+    "remark": "Rest Day"
+  },
+  {
+    "date": "2026-02-22",
+    "time": "13:00",
+    "distance": 13.7,
+    "map": "https://runsignup.com/Race/WinterRunCRRC/Page/CourseMaps",
+    "remark": "Timbuk Winter Challenge - 22k, 1:39:06"
+  },
+  {
+    "date": "2026-02-23",
+    "time": "17:50",
+    "distance": 2.23,
+    "map": "https://onthegomap.com/s/hl3rdeg3"
+  },
+  {
+    "date": "2026-02-24",
+    "time": "17:30",
+    "distance": 3.06,
+    "map": "https://onthegomap.com/s/9voii1c1"
+  },
+  {
+    "date": "2026-02-25",
+    "time": "16:35",
+    "distance": 5.73,
+    "map": "https://onthegomap.com/s/0rb6fslv",
+    "remark": "Breezy, but ☀️, minor hamstring tightness."
+  },
+  {
+    "date": "2026-02-26",
+    "time": "16:30",
+    "distance": 3.98,
+    "map": "https://onthegomap.com/s/tqutl4o0"
+  },
+  {
+    "date": "2026-02-27",
+    "time": "17:45",
+    "distance": 4.46,
+    "map": "https://onthegomap.com/s/jq83c0a4"
+  },
+  {
+    "date": "2026-02-28",
+    "time": "09:00",
+    "distance": 3.74,
+    "map": "https://onthegomap.com/s/0s5h11db"
+  },
+  {
+    "date": "2026-03-01",
+    "time": "17:00",
+    "distance": 4.00,
+    "map": "https://onthegomap.com/s/tkktkcp2"
+  },
+  {
+    "date": "2026-03-02",
+    "time": "17:30",
+    "distance": 2.03,
+    "map": "https://onthegomap.com/s/oss86ha7"
+  },
+  {
+    "date": "2026-03-03",
+    "time": "08:45",
+    "distance": 3.04,
+    "map": "https://onthegomap.com/s/fbfrs7do"
+  },
+  {
+    "date": "2026-03-04",
+    "time": "07:45",
+    "distance": 5.37,
+    "map": "https://onthegomap.com/s/49f73v0t",
+    "remark": "My happy place."
+  },
+  {
+    "date": "2026-03-05",
+    "time": "07:45",
+    "distance": 5.37,
+    "map": "https://onthegomap.com/s/49f73v0t",
+    "remark": "Rinse. Repeat."
+  },
+  {
+    "date": "2026-03-06",
+    "time": "07:55",
+    "distance": 3.06,
+    "map": "https://onthegomap.com/s/9gjmgt9b"
+  },
+  {
+    "date": "2026-03-07",
+    "time": "13:30",
+    "distance": 2.77,
+    "map": "https://onthegomap.com/s/l6999ede"
+  },
+  {
+    "date": "2026-03-08",
+    "time": "16:00",
+    "distance": 5.70,
+    "map": "https://onthegomap.com/s/mmrvci14",
+    "remark": "Spring splendor!"
+  },
+  {
+    "date": "2026-03-09",
+    "time": "06:00",
+    "distance": 4.26,
+    "map": "https://onthegomap.com/s/5qvgruas",
+    "remark": "Colonial Hills Yoggers Route"
+  },
+  {
+    "date": "2026-03-10",
+    "time": "18:45",
+    "distance": 2.23,
+    "map": "https://onthegomap.com/s/3q778f8g"
+  },
+  {
+    "date": "2026-03-11",
+    "time": "06:00",
+    "distance": 4.26,
+    "map": "https://onthegomap.com/s/5qvgruas"
+  },
+  {
+    "date": "2026-03-12",
+    "time": "16:35",
+    "distance": 2.44,
+    "map": "https://onthegomap.com/s/df5tvjdb",
+    "remark": "Short, fast run."
+  },
+  {
+    "date": "2026-03-13",
+    "time": "06:00",
+    "distance": 4.23,
+    "map": "https://onthegomap.com/s/co48dof0"
+  },
+  {
+    "date": "2026-03-14",
+    "time": "17:00",
+    "distance": 4.00,
+    "map": "https://www.crookedcanohio.com/events/crooked-shillelagh-4-miler",
+    "remark": "Crooked Shillelagh 4 Miler"
+  },
+  {
+    "date": "2026-03-15",
+    "time": "17:45",
+    "distance": 1.9,
+    "map": "https://onthegomap.com/s/p94j853v",
+    "remark": "Shake out run."
+  },
+  {
+    "date": "2026-03-16",
+    "time": "06:00",
+    "distance": 4.61,
+    "map": "https://onthegomap.com/s/kdh3rmng",
+    "remark": "Sideways rain to finish!"
   }
 ]
