@@ -448,7 +448,7 @@
     "time": "17:00",
     "distance": 4.00,
     "map": "https://www.crookedcanohio.com/events/crooked-shillelagh-4-miler",
-    "remark": "Crooked Shillelagh 4 Miler"
+    "remark": "Crooked Shillelagh 4 Miler (25:12)"
   },
   {
     "date": "2026-03-15",
@@ -463,5 +463,207 @@
     "distance": 4.61,
     "map": "https://onthegomap.com/s/kdh3rmng",
     "remark": "Sideways rain to finish!"
+  },
+  {
+    "date": "2026-03-17",
+    "time": "17:00",
+    "distance": 5.70,
+    "map": "https://onthegomap.com/s/mmrvci14",
+    "remark": "Winter Redux."
+  },
+  {
+    "date": "2026-03-18",
+    "time": "06:00",
+    "distance": 4.26,
+    "map": "https://onthegomap.com/s/5qvgruas"
+  },
+  {
+    "date": "2026-03-19",
+    "time": "16:30",
+    "distance": 1.15,
+    "map": "https://onthegomap.com/s/t4nvdmp6",
+    "remark": "Recovery day."
+  },
+  {
+    "date": "2026-03-20",
+    "time": "06:00",
+    "distance": 4.23,
+    "map": "https://onthegomap.com/s/5qvgruas"
+  },
+  {
+    "date": "2026-03-21",
+    "time": "09:00",
+    "distance": 5.78,
+    "map": "https://onthegomap.com/s/a23dnblk"
+  },
+  {
+    "date": "2026-03-22",
+    "time": "16:30",
+    "distance": 1.48,
+    "map": "https://onthegomap.com/s/v7dfos62",
+    "remark": "Wut is this weather? 🥵"
+  },
+  {
+    "date": "2026-03-23",
+    "time": "06:00",
+    "distance": 4.26,
+    "map": "https://onthegomap.com/s/5qvgruas"
+  },
+  {
+    "date": "2026-03-24",
+    "time": "17:15",
+    "distance": 3.61,
+    "map": "https://onthegomap.com/s/ipgajo4u"
+  },
+  {
+    "date": "2026-03-25",
+    "time": "06:00",
+    "distance": 5.92,
+    "map": "https://onthegomap.com/s/1vvs2bn1",
+    "remark": "Yoggers + Bonus. Perfect weather."
+  },
+  {
+    "date": "2026-03-26",
+    "time": "16:39",
+    "distance": 2.21,
+    "map": "https://onthegomap.com/s/s39ba79e"
+  },
+  {
+    "date": "2026-03-27",
+    "time": "23:20",
+    "distance": 1.89,
+    "map": "https://onthegomap.com/s/tnoaq5ol",
+    "remark": "Some days... just not feeling it."
+  },
+  {
+    "date": "2026-03-28",
+    "time": "10:45",
+    "distance": 3.70,
+    "map": "https://onthegomap.com/s/45bijb9g"
+  },
+  {
+    "date": "2026-03-29",
+    "time": "16:45",
+    "distance": 4.46,
+    "map": "https://onthegomap.com/s/3hk7gecm"
+  },
+  {
+    "date": "2026-03-30",
+    "time": "06:00",
+    "distance": 4.26,
+    "map": "https://onthegomap.com/s/5qvgruas"
+  },
+  {
+    "date": "2026-03-31",
+    "time": "16:40",
+    "distance": 1.69,
+    "map": "https://onthegomap.com/s/sbl5hccq"
+  },
+  {
+    "date": "2026-04-01",
+    "time": "06:00",
+    "distance": 5.92,
+    "map": "https://onthegomap.com/s/a3tp94fk"
+  },
+  {
+    "date": "2026-04-02",
+    "time": "16:30",
+    "distance": 3.94,
+    "map": "https://onthegomap.com/s/p7pkl082"
+  },
+  {
+    "date": "2026-04-03",
+    "time": "16:30",
+    "distance": 1.16,
+    "map": "https://onthegomap.com/s/t4nvdmp6"
+  },
+  {
+    "date": "2026-04-04",
+    "time": "09:00",
+    "distance": 14.10,
+    "map": "https://onthegomap.com/s/t07rc05a",
+    "remark": "Iron Furnace Half Marathon - What a beast! :)"
+  },
+  {
+    "date": "2026-04-05",
+    "time": "21:30",
+    "distance": 2.00,
+    "map": "https://onthegomap.com/s/qghp6bk6",
+    "remark": "Run with Charlotte"
+  },
+  {
+    "date": "2026-04-06",
+    "time": "06:00",
+    "distance": 4.1,
+    "map": "https://onthegomap.com/s/uh1ia900"
+  },
+  {
+    "date": "2026-04-07",
+    "time": "07:55",
+    "distance": 3.05,
+    "map": "https://onthegomap.com/s/heepnman"
+  },
+  {
+    "date": "2026-04-08",
+    "time": "06:00",
+    "distance": 4.09,
+    "map": "https://onthegomap.com/s/5iga5ad2",
+    "remark": "Yoggers - different route today."
+  },
+  {
+    "date": "2026-04-09",
+    "time": "20:30",
+    "distance": 4.16,
+    "map": "https://onthegomap.com/s/mnshh1jh"
+  },
+  {
+    "date": "2026-04-10",
+    "time": "06:00",
+    "distance": 4.15,
+    "map": "https://onthegomap.com/s/ood28dm9"
+  },
+  {
+    "date": "2026-04-11",
+    "time": "15:00",
+    "distance": 5.78,
+    "map": "https://onthegomap.com/s/a23dnblk"
+  },
+  {
+    "date": "2026-04-12",
+    "time": "16:00",
+    "distance": 1.05,
+    "map": "https://onthegomap.com/s/d8ctr88p",
+    "remark": "Because, Charlotte. Probably needed a rest anyway."
+  },
+  {
+    "date": "2026-04-13",
+    "time": "06:00",
+    "distance": 4.23,
+    "map": "https://onthegomap.com/s/qmume9jh"
+  },
+  {
+    "date": "2026-04-14",
+    "time": "21:45",
+    "distance": 1.51,
+    "map": "https://onthegomap.com/s/rk22s345"
+  },
+  {
+    "date": "2026-04-15",
+    "time": "08:37",
+    "distance": 4.60,
+    "map": "https://onthegomap.com/s/rk22s345"
+  },
+  {
+    "date": "2026-04-16",
+    "time": "16:30",
+    "distance": 3.94,
+    "map": "https://onthegomap.com/s/p7pkl082"
+  },
+  {
+    "date": "2026-04-17",
+    "time": "06:00",
+    "distance": 6.01,
+    "map": "https://onthegomap.com/s/5jcisvs7",
+    "remark": "Beautiful morning. 🌅"
   }
 ]
